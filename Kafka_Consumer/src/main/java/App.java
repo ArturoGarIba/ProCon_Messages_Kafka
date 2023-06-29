@@ -5,7 +5,5 @@ public class App {
         var consumer = Consumer.getInstance();
         consumer.start();
 
-
-
     }
 }
